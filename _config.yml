@@ -2,8 +2,8 @@
 name: "Blog by Kithmi"
 title: "Kithmi's Blog"
 description: "A blog about technology"
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+logo: 'assets/images/logok.png'
+favicon: 'assets/images/logok.png'
 baseurl: ''
 google_analytics: ''
 disqus: 'demowebsite'
