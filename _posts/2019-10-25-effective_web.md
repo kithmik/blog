@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Effective web"
+title:  "The best way to design an effective website"
 author: kithmi
 categories: [ Web, Development ]
 tags: [development, effective, web]
 image: assets/images/web1.jpg
-description: "The best way to design an effective website."
+description: "How to create an effective website."
 featured: true
 hidden: false
 rating: 4.0
