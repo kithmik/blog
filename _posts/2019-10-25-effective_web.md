@@ -7,7 +7,7 @@ tags: [development, effective, web]
 image: assets/images/web1.jpg
 description: "The best way to design an effective website."
 featured: true
-hidden: true
+hidden: false
 rating: 4.0
 ---
 # The best way to design an effective website.
